@@ -41,4 +41,5 @@ npm run dev
 ---
 
 ## 📸 Screenshots
-(Add images here)
+<img width="1440" height="900" alt="Screenshot 2026-04-15 at 2 30 51 PM" src="https://github.com/user-attachments/assets/45544dcf-97b6-42dc-bc42-7a2599211647" />
+
